@@ -1,0 +1,44 @@
+    1  pwd
+    2  exit
+    3  which git
+    4  cygpath -w $(which git)
+    5  ls
+    6  pushd 'F:\goat-pc-data\programming\openshift\myapp'
+    7  ls
+    8  ls *
+    9  git status
+   10  git commit -am "experimental"
+   11  git push
+   12  pushd /f/goat-pc-data/programming/openshift/myapp/php
+   13  pwd
+   14  ls
+   15  git status
+   16  git add code9leap_37841/
+   17  git commit -am "import code9leap_37841"
+   18  git push
+   19  git commit -am "add label and display time"
+   20  git push
+   21  git commit -am "indent"
+   22  pushd 'F:\goat-pc-data\programming\openshift\mynodejs'
+   23  git commit -am "indent"
+   24  ls
+   25  ls
+   26  note node.js
+   27  node node.js
+   28  git status
+   29  git status
+   30  find 
+   31  git status
+   32  pwd
+   33  git -am "chat101"
+   34  git commit -am "chat101"
+   35  git push
+   36  echo $?
+   37  ls
+   38  ls chat101/server.js 
+   39  git status
+   40  git add .
+   41  git commit -am "chat101"
+   42  git push
+   43  ls ~
+   44  history > git-bash-history.txt
